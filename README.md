@@ -6,7 +6,6 @@
 
 # Some Interesting Open Source Projects i am interested in
 
-* Manticore
 * PongoOS 
 * Milo
 * SillySock's Punishments
