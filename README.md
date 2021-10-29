@@ -7,7 +7,8 @@
 # Some Interesting Open Source Projects i am interested in
 
 * PongoOS 
-* Milo
 * SillySock's Punishments
+* Taurine
+* Procursus
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/294956096353730570)](https://discord.com/users/294956096353730570)
